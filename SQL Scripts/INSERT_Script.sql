@@ -6,7 +6,8 @@ CREATE table CARS(ID int, Make varchar(255), Model varchar(255), Manual Boolean,
  INSERT INTO CARS values(2, 'Range Rover', 'Sport', True, '2019-01-01', 'Navy'); 
  INSERT INTO CARS values(3, 'Mercedes', 'Cla', True, '2021-01-01', 'White'); 
  INSERT INTO CARS values(4, 'BMW', 'X5', True, '2021-01-01', 'Red'); 
- INSERT INTO CARS values(5, 'Ford', 'Mondeo', True, '2018-01-01', 'Blue'); */  
+ INSERT INTO CARS values(5, 'Ford', 'Mondeo', True, '2018-01-01', 'Blue'); 
+ Test*/  
  SELECT * FROM CARS; 
 
  
